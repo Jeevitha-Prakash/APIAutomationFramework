@@ -1,4 +1,4 @@
-package com.thetestingacademy.ex_07_payload_management.Class.tool.response;
+package com.thetestingacademy.pojos.responsePOJO;
 
 
 
@@ -6,6 +6,7 @@ package com.thetestingacademy.ex_07_payload_management.Class.tool.response;
 
 import com.thetestingacademy.ex_07_payload_management.Class.tool.request.Booking;
 
+import java.util.LinkedHashMap;
 import java.util.Map;
 
 public class BookingResponse {

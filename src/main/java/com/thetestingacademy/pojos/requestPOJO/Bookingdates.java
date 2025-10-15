@@ -1,4 +1,4 @@
-package com.thetestingacademy.ex_07_payload_management.Class.tool.request;
+package com.thetestingacademy.pojos.requestPOJO;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
